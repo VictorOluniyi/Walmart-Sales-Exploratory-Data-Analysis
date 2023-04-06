@@ -66,3 +66,6 @@ Certain departments, such as electronics and toys, have higher sales during cert
 
 ## Conclusion    
 This project shows how exploratory data analysis can be used to gain insights into Walmart sales data. The findings can be used to optimize inventory management and pricing strategies, leading to increased profitability. The project also demonstrates how SQL can be used to predict future sales based on historical data.
+
+## Dashboard
+Coming soon!!!
