@@ -1,7 +1,7 @@
 # Walmart-Sales-Exploratory-Data-Analysis
 
 ## About the project
-This is a project that explores Walmart sales data to identify trends and patterns. The data used in this project comes from the Kaggle Walmart Sales Forecasting competition and includes historical sales data for 3 Walmart branches located in 3 different regions.
+This is a project that explores Walmart sales data to to analyze sales trends, customer behavior, and the performance of different products and branches. The data can also be used to identify areas for improvement in the business, such as increasing customer satisfaction and optimizing sales strategies. The data used in this project comes from the Kaggle Walmart Sales Forecasting competition and includes historical sales data for 3 Walmart branches located in 3 different regions.
 
 ### Purpose of the Project
 The purpose of this project is to gain insights into Walmart sales data and understand the factors that affect sales. I performed the below analysis;
@@ -70,7 +70,7 @@ Stores with larger sizes and higher temperatures tend to have higher sales.
 Certain departments, such as electronics and toys, have higher sales during certain periods, such as Christmas.
 
 ## Conclusion    
-This project shows how exploratory data analysis can be used to gain insights into Walmart sales data. The findings can be used to optimize inventory management and pricing strategies, leading to increased profitability. The project also demonstrates how SQL can be used to predict future sales based on historical data.
+This project shows how exploratory data analysis can be used to gain insights into Walmart sales data. The findings can be used to analyze sales trends, customer behavior, and the performance of different products and branches. The data can also be used to identify areas for improvement in the business, such as increasing customer satisfaction and optimizing sales strategies. The project also demonstrates how SQL can be used to predict future sales based on historical data.
 
 ## Dashboard
 Coming soon!!!
