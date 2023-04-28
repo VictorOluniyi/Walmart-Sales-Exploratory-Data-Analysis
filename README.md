@@ -1,15 +1,20 @@
 # Walmart-Sales-Exploratory-Data-Analysis
 
 ## About the project
-This is a project that explores Walmart sales data to identify trends and patterns. The data used in this project comes from the Kaggle Walmart Sales Forecasting competition and includes historical sales data for 45 Walmart stores located in different regions.
+This is a project that explores Walmart sales data to identify trends and patterns. The data used in this project comes from the Kaggle Walmart Sales Forecasting competition and includes historical sales data for 3 Walmart branches located in 3 different regions.
 
-### Motivation
-The purpose of this project is to gain insights into Walmart sales data and understand the factors that affect sales. This analysis can help Walmart optimize their inventory management and pricing strategies, leading to increased profitability.
+### Purpose of the Project
+The purpose of this project is to gain insights into Walmart sales data and understand the factors that affect sales. I performed the below analysis;
+#### Customer analysis: to identify the most profitable customer segments, their purchasing behaviors and preferences. This information helped us tailor our marketing 
+efforts and improve customer retention strategies, ultimately leading to increased sales.  
+#### Product analysis: I conducted a thorough analysis of the product line, to identify the most profitable products and the ones that needed improvement. This information is needed to make better 
+inventory and pricing decisions, and to focus our efforts on the products that would yield the best returns.
+#### Sales analysis: By analyzing the sales data, I identified trends and patterns that allowed us to optimize our sales strategies. This can be used to adjust promotions and sales efforts to target high-potential customers and to increase our conversion rates.
 
 ### About the Data
-The data used in this project is from the Kaggle Walmart Sales Forecasting competition. It includes historical sales data for 45 Walmart stores located in different regions, along with additional information about store features, promotions, and holidays. The data covers the period from February 2010 to October 2012.
+The data used in this project is from the Kaggle Walmart Sales Forecasting competition. It includes historical sales data for 3 Walmart stores located in 3 different regions, along with additional information about product_line, invoice_id	branch,	city, customer_type,	gender, unit_price,	quantity,	tax_5, total, date,	time,	payment,	cogs,	gross_margin_percentage,	gross_income,	rating,	day_period,	month,	weekday. The data covers the period from January 2016 to March 2016.
 
-## Business Questions
+## Business Questions to be Answered
 1. When does the stores open
 2. Total number of orders received in the last 3 months (Jan, Feb, Mar)
 3. How many quantities of product do we sell in the last 3 months
