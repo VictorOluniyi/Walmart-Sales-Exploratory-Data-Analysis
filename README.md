@@ -12,7 +12,7 @@ inventory and pricing decisions, and to focus our efforts on the products that w
 #### Sales analysis: By analyzing the sales data, I identified trends and patterns that allowed us to optimize our sales strategies. This can be used to adjust promotions and sales efforts to target high-potential customers and to increase our conversion rates.
 
 ### About the Data
-The data used in this project is from the Kaggle Walmart Sales Forecasting competition. It includes historical sales data for 3 Walmart stores located in 3 different regions, along with additional information about product_line, invoice_id	branch,	city, customer_type,	gender, unit_price,	quantity,	tax_5, total, date,	time,	payment,	cogs,	gross_margin_percentage,	gross_income,	rating,	day_period,	month,	weekday. The data covers the period from January 2016 to March 2016.
+This dataset contains sales transactions from a retail store in three different branches located in Yangon, Naypyitaw, and Mandalay. The data contains 17 columns and 1000 rows. The columns are: product_line, invoice_id	branch,	city, customer_type,	gender, unit_price,	quantity,	tax_5, total, date,	time,	payment,	cogs,	gross_margin_percentage,	gross_income,	rating,	day_period,	month,	weekday. The data covers the period from January 2016 to March 2016.
 
 ## Business Questions to be Answered
 1. When does the stores open
