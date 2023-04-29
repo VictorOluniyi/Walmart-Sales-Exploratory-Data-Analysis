@@ -14,6 +14,9 @@ inventory and pricing decisions, and to focus our efforts on the products that w
 ### About the Data
 This dataset contains sales transactions from a retail store in three different branches located in Yangon, Naypyitaw, and Mandalay. The data contains 17 columns and 1000 rows. The columns are: product_line, invoice_id	branch,	city, customer_type,	gender, unit_price,	quantity,	tax_5, total, date,	time,	payment,	cogs,	gross_margin_percentage,	gross_income,	rating,	day_period,	month,	weekday. The data covers the period from January 2016 to March 2016.
 
+## Tech Stack
+SQL
+
 ## Business Questions to be Answered
 1. When does the stores open
 2. Total number of orders received in the last 3 months (Jan, Feb, Mar)
